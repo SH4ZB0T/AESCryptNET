@@ -5,7 +5,7 @@ using System.Text;
 
 namespace net.infodox.AESCryptNET
 {
-    class AESCryptNET
+    public static class AESCryptNET
     {
 
         /*

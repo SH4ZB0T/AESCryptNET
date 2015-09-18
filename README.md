@@ -1,5 +1,5 @@
 # AESCryptNET
-A C# .NET library for facilitating OpenSS-compatible enryption and decryption
+A C# .NET library for facilitating OpenSSL-compatible encryption and decryption
 Headers are as defined below:
 ```c#
     public static byte[] EncryptCBC(byte[] plainTextBytes, string secretString, int keySize)
