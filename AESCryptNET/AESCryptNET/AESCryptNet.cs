@@ -3,7 +3,7 @@ using System.IO;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace Grandstream_Provisioner
+namespace net.infodox.AESCryptNET
 {
     class AESCryptNET
     {
