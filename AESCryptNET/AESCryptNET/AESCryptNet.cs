@@ -3,7 +3,7 @@ using System.IO;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace net.infodox.AESCryptNET
+namespace net.infodox
 {
     public static class AESCryptNET
     {
